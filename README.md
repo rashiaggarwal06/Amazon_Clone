@@ -8,7 +8,7 @@ This is a front-end clone of the Amazon website, created using HTML and CSS. Thi
 
 ## Screenshots
 ![Interface](./Images/Amazon_interface.png)
-![Homepage](./Images/Amazon_background.png)
+![Homepage](./Images/Amazon_background.jpg)
 ![Footer](./Images/Amazon_footer.png)
 
 ## Getting Started
